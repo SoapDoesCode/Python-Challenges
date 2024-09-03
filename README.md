@@ -31,4 +31,4 @@ These are how I have solved Ethan's challenges, I recommend you attempt them you
 
 - None
 
-### All Credit to the challegnes goes to [Ethan Barr](https://github.com/Ethan-Barr/Python-Projects)!
+### All Credit for the challenges should go to [Ethan Barr](https://github.com/Ethan-Barr/Python-Projects)!
