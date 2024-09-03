@@ -18,6 +18,7 @@ These are how I have solved Ethan's challenges, I recommend you attempt them you
 ## Fundamentals
 
 - [Guess The Number Game](./Fundamentals/Guess%20The%20Number%20Game.py)
+- [Password Generator](./Fundamentals/Password%20Generator.py)
 
 ## Intermediate Projects
 
